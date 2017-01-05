@@ -23,7 +23,7 @@ Aria keyboard with custom layout. [Configurator](https://input.club/configurator
 3. Flash the keyboard using `dfu-util`
 
     ```
-    dfu-util -a 0 -R -D ./aria/kiibohd.dfu.bin
+    $ dfu-util -a 0 -R -D ./aria/kiibohd.dfu.bin
     ```
 
 4. Start using the keyboard
